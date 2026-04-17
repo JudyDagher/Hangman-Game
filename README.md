@@ -9,18 +9,19 @@ The player tries to guess a hidden word one letter at a time.
 Each incorrect guess brings the player closer to losing the game. The goal is to guess the word before the hangman is fully drawn.
 
 🧠 Key Concepts Practiced
-Conditional statements and loops
-String manipulation
-Event-driven programming
-GUI development with Tkinter
-Game logic design
+Conditional statements and loops.
+String manipulation.
+Event-driven programming.
+GUI development with Tkinter.
+Game logic design.
 
 🎮 Features
-Clean and simple graphical interface
-Random word selection each round
-Real-time feedback on guesses
-Limited attempts system
-Win/Loss detection
+Clean and simple graphical interface.
+Random word selection each round.
+Real-time feedback on guesses.
+Limited attempts system.
+Win/Loss detection.
+
 🛠️ Built With
-Python 🐍
-Tkinter 🎨
+Python.
+Tkinter.
