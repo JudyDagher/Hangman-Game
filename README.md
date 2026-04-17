@@ -14,6 +14,7 @@ String manipulation
 Event-driven programming
 GUI development with Tkinter
 Game logic design
+
 🎮 Features
 Clean and simple graphical interface
 Random word selection each round
